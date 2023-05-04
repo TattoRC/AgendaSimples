@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaSimplesT5", "AgendaSimplesT5\AgendaSimplesT5.csproj", "{52BCC3A8-3166-4047-A04E-472958C1BFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52BCC3A8-3166-4047-A04E-472958C1BFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BCC3A8-3166-4047-A04E-472958C1BFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BCC3A8-3166-4047-A04E-472958C1BFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BCC3A8-3166-4047-A04E-472958C1BFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386F28A8-D8EF-48CB-8C90-29D7868A31FF}
+	EndGlobalSection
+EndGlobal
